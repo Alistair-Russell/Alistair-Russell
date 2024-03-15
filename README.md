@@ -1,9 +1,34 @@
-### Hi there 👋
+### Hi there!
+
+I'm Alistair, I work as an Engineering Manager at Industrial Light & Magic in Vancouver, BC. 
+
+My background is in visual effects, software engineering, finance, and mathematics.
+
+🔭 I’m currently working on ...
+* Coaching high-performing engineering teams across R&D, Infrastructure, and Platform Engineering
+* Driving operational excellence through a data-driven Engineering Productivity Program
+* Owning organization-wide collaboration tools and their implementation
+* Mentorship and sponsorship of early career engineering support leaders
+
+📦 Skills and technology ...
+* Development: Python, Postgres, Go
+* Data: SQL, Mage, BigQuery, Looker Studio
+* Ops: GCP, Linux, Ansible, Docker, Kubernetes, Jira, Confluence
+
+💬 About me ...
+
+
+🌱 Current projects ...
+* Development: A lightweight issue tracking application using Go, HTMX, Turso
+* Finance: A financial model and paper for R&D Project Valuation using Option Pricing Theory with investor and entrepreneur interactions
+
+🏁 Completed projects ...
+
 
 <!--
 **Alistair-Russell/Alistair-Russell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you stated:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
