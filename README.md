@@ -6,7 +6,7 @@ I'm Alistair, I currently work as an Engineering Manager at Industrial Light & M
 
 * Coaching high-performing engineering teams across R&D, Infrastructure, and Platform Engineering
 * Driving operational excellence through a data-driven Engineering Productivity Program
-* Owning organization-wide collaboration tools and their implementation
+* Program management and administration of organization-wide collaboration tools
 * Mentorship and sponsorship of early career engineering support leaders
 
 ### 📦 Skills and technology ...
@@ -17,11 +17,9 @@ I'm Alistair, I currently work as an Engineering Manager at Industrial Light & M
 
 ### 💬 About me ...
 
-My background is in software engineering, finance, mathematics, and visual effects. The problems I most enjoy solving at my day job are technology operations challenges; I find these resource allocation problems very engaging as they require finding the perfect balance of engineering autonomy, continuous improvement, shared vision, and effective change management. 
+My background spans software engineering, finance, mathematics, and visual effects. The problems I enjoy solving at my day job concern technology operations challenges; I find resource allocation and operational effciency problems very engaging as they require finding the perfect balance of engineer autonomy, continuous improvement, shared vision, and effective change management. 
 
-My interests in the realm of finance are tangentially related - they concern the valuation of projects with extremely high volatility (ie. research and development, R&D, projects) where a naive cost/benefit analysis would result in a negative net present value. In simple terms, it's hard for a company to justify investment in highly uncertain/exploratory projects if they apply conventional return-on-investment measures. See more in my [Lean Project Valuation repo and working paper](https://github.com/Alistair-Russell/Lean-Project-Valuation), or get in touch if this interests you! Bridging this gap in the world of technology is extremely motivating because the necessity of innovation is evident, yet it remains hard to quantify and justify.
-
-Books such as the The Phoenix Project, The Lean Startup, Accelerate, Range, and Extreme Ownership have been strong influences on my approach team improvement methodologies.
+My interests in finance concern the valuation of projects with high volatility (ie. research and development, R&D, projects) where a naive cost/benefit analysis results in negative net present value. In simple terms, it is hard for a company to justify investment in highly uncertain/exploratory projects when applying conventional return-on-investment measures. See more in my [Lean Project Valuation repo and working paper](https://github.com/Alistair-Russell/Lean-Project-Valuation), or get in touch if this interests you! Bridging this gap in the world of technology is extremely motivating - the necessity of innovation is evident, yet it remains hard to quantify and justify.
 
 ### 🌱 Some current personal projects ...
 * Development: A lightweight issue tracking application using Go, HTMX, Turso
