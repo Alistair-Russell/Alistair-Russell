@@ -1,13 +1,13 @@
 ## Hi there!
 
-I'm Alistair, I currently work as an Engineering Manager at Industrial Light & Magic, a visual effects studio in Vancouver, BC. 
+I'm Alistair, I currently work as a Technical Program Manager (Data and Machine Learning) at Industrial Light & Magic, a visual effects studio in Vancouver, BC.
 
 ### 🔭 I am currently working on ...
 
+* Technical program management for Data Management, Machine Learning, and Engineering Productivity
 * Coaching high-performing engineering teams across R&D, Infrastructure, and Platform Engineering
 * Driving operational excellence through a data-driven Engineering Productivity Program
-* Program management and administration of organization-wide collaboration tools
-* Mentorship and sponsorship of early career engineering support leaders
+
 
 ### 📦 Skills and technology ...
 
@@ -22,8 +22,8 @@ My background spans software engineering, finance, mathematics, and visual effec
 My interests in finance concern the valuation of projects with high volatility (ie. research and development, R&D, projects) where a naive cost/benefit analysis results in negative net present value. In simple terms, it is hard for a company to justify investment in highly uncertain/exploratory projects when applying conventional return-on-investment measures. See more in my [Lean Project Valuation repo and working paper](https://github.com/Alistair-Russell/Lean-Project-Valuation), or get in touch if this interests you! Bridging this gap in the world of technology is extremely motivating - the necessity of innovation is evident, yet it remains hard to quantify and justify.
 
 ### 🌱 Some current personal projects ...
-* Development: A lightweight issue tracking application using Go, HTMX, Turso
-* Finance: A financial model and paper for R&D Project Valuation using Option Pricing Theory with investor and entrepreneur interactions
+* Development: A [lightweight issue tracking application](https://github.com/Alistair-Russell/spartan) using Go, HTMX, Turso
+* Finance: A financial model and paper for [R&D Project Valuation using Option Pricing Theory](https://github.com/Alistair-Russell/Lean-Project-Valuation) with investor and entrepreneur interactions
 
 ### 🏁 Completed projects ...
 
@@ -32,9 +32,14 @@ My interests in finance concern the valuation of projects with high volatility (
 Books I have found value in:
 
 * The Phoenix Project (Kim, Behr, Spafford)
+* The Devops Handbook (Kim, Debois, Willis, Humble)
 * The Lean Startup (Ries)
 * Extreme Ownership (Willink, Babin)
+* Inspired (Cagan)
+* Build (Fadell)
+* The Minimalist Entrepreneur (Lavingia)
 * Range (David Epstein)
+* Competing in the Age of AI (Iansiti, Lakhani)
 * The Great CEO Within (Mochary, MacCaw, Talavera)
 * Staff Engineer (Larson)
 * Accelerate (Forsgren, Humble, Kim)
@@ -42,8 +47,8 @@ Books I have found value in:
 
 And a few that are just for the love of the game:
 
-* [WIP] The Lord of the Rings Trilogy (Tolkein) - Andy Serkis narrates these on audible and it's amazing... I hadn't attempted reading the books until now, it's been a blast.
-* The Witcher Series (Sapkowski) - All of these are just so great.
+* The Lord of the Rings Trilogy (Tolkein)
+* The Witcher Series (Sapkowski)
 * The Enderverse Series (Johnston, Scott Card)
 
 <!--
